@@ -8,7 +8,7 @@ package ch06;
  */
 public class P194_2 {
 
-	// private static P194_2 instance = new P194_2();
+	private static P194_2 instance = new P194_2();
 	private P194_2() {}
 
 }

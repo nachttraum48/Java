@@ -12,13 +12,13 @@ public class P183 {
 		
 		P182 studentLee = new P182();
 		studentLee.setStudentName("이지원");
-		// System.out.println(studentLee.serialNum);
-		// studentLee.serialNum++;
+		System.out.println(studentLee.serialNum);
+		studentLee.serialNum++;
 		
 		P182 studentSon = new P182();
 		studentSon.setStudentName("손수경");
-		// System.out.println(studentSon.serialNum);
-		// System.out.println(studentLee.serialNum);
+		System.out.println(studentSon.serialNum);
+		System.out.println(studentLee.serialNum);
 		
 	}
 	

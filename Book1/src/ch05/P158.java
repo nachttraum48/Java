@@ -14,7 +14,7 @@ public class P158 {
 		personKim.weight = 85.5F;
 		personKim.height = 180.0F;
 		
-		// P157 personLee = new P157("이순신", 175, 75);
+		P157 personLee = new P157("이순신", 175, 75);
 	}
 	
 }
