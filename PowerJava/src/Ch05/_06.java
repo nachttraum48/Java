@@ -1,6 +1,6 @@
 package Ch05;
 
-// import java.util.Scanner;
+import java.util.Scanner;
 
 /*
  * 날짜 : 2022/08/29
@@ -24,7 +24,7 @@ public class _06 {
 	
 	public static void main(String[] args) {
 		
-		// Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		
 		Movie[] list = new Movie[10];
 		list[0] = new Movie("백투더퓨쳐", "로버트 저메키스");

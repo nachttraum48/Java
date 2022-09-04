@@ -8,13 +8,13 @@ package Ch05;
  */
 public class _03_1 {
 	
-	// private String toppings;
-	// private int radius;
+	private String toppings;
+	private int radius;
 	static final double PI = 3.141592;
 	static int count = 0;
 	
 	public _03_1(String toppings) {
-		// this.toppings = toppings;
+		this.toppings = toppings;
 		count++;
 	}
 

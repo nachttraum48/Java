@@ -8,7 +8,7 @@ package Ch06;
  */
 class Person_1 {
 	
-	// private String regnumer;
+	private String regnumer;
 	private double weight;
 	protected int age;
 	String name;

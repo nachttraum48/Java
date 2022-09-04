@@ -42,7 +42,7 @@ public class _05 {
 	
 	public static void main(String[] args) {
 		
-		// Employable employee1 = new Employee("홍길동");
+		Employable employee1 = new Employee("홍길동");
 		// Employable employee2 = new Employee("");
 		
 	}

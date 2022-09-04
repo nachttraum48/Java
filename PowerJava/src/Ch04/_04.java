@@ -10,12 +10,12 @@ public class _04 {
 
 	private int channel;
 	private int volume;
-	// private boolean onOff;
+	private boolean onOff;
 	
 	_04(int c, int v, boolean o) {
 		channel = c;
 		volume = v;
-		// onOff = o;
+		onOff = o;
 	}
 	
 	void print() {
