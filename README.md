@@ -38,4 +38,9 @@
 	- sub2.예외던지기 실습
 	
 ## Ch08.자바 API 클래스
-	- sub1.자바 API Object 클래스 실습
+	- sub1.Object 클래스 실습
+	- sub2.문자열 클래스 String 실습
+	- sub3.Wrapper 클래스 실습
+	- sub4.Math 클래스 실습
+	- sub5.날짜 클래스 실습
+	- sub6.정규표현식 클래스 실습
