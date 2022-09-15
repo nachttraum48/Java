@@ -63,4 +63,4 @@
 	- sub2.JDBC Insert, Update, Delete 실습
 	- sub3.JDBC Select 실습
 	- sub4.JDBC PreparedStatement 실습
-	- sub5.트랜잭션 실습
+	- sub5.JDBC 트랜잭션 실습
