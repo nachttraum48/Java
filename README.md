@@ -64,3 +64,9 @@
 	- sub3.JDBC Select 실습
 	- sub4.JDBC PreparedStatement 실습
 	- sub5.JDBC 트랜잭션 실습
+	
+## Ch12.스레드
+	- sub1.스레드 실습
+	- sub2.스레드 Join 실습
+	- sub3.스레드 활용 실습
+	- sub4.데몬스레드 실습
